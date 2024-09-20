@@ -1,8 +1,10 @@
-<h2 align="left">Hi 👋!
+<h2 align="left">Hi 👋!</h2>
+<p align="left">
 
-My name is Leila, and I am a detail-oriented software engineer with industry experience in building and maintaining websites and web applications, specializing in TypeScript, JavaScript, and its frameworks in both server-side and client-side environments (Node.js, Express.js, React.js, Next.js).</h2>
+My name is Leila, and I am a detail-oriented software engineer with industry experience in building and maintaining websites and web applications, specializing in TypeScript, JavaScript, and its frameworks in both server-side and client-side environments (Node.js, Express.js, React.js, Next.js)</p>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lilikh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
