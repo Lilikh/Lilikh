@@ -1,8 +1,9 @@
-## Hi there 👋
 
 
 
-<h2 align="left">Hi 👋! My name is Leila and a detail-oriented software engineer with industry experience in building and maintaining websites and web applications, specializing in TypeScript, JavaScript, and its frameworks in both server-side and client-side environments (Node.js, Express.js, React.js, Next.js).</h2>
+<h2 align="left">Hi 👋!
+
+My name is Leila and a detail-oriented software engineer with industry experience in building and maintaining websites and web applications, specializing in TypeScript, JavaScript, and its frameworks in both server-side and client-side environments (Node.js, Express.js, React.js, Next.js).</h2>
 
 ###
 
@@ -30,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="typescript logo"  />
 </div>
 
 ###
