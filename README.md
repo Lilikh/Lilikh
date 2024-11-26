@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋!</h2>
 <p align="left">
 
-My name is Leila, and I am a detail-oriented software engineer with industry experience in building and maintaining websites and web applications, specializing in TypeScript, JavaScript, and its frameworks in both server-side and client-side environments (Node.js, Express.js, React.js, Next.js)</p>
+My name is Leila, and I am a detail-oriented software engineer with industry experience in building and maintaining websites and web applications, specializing in TypeScript, JavaScript, and its frameworks in both server-side and client-side environments (Node.js, Express.js, React.js, Next.js, Vue.js)</p>
 
 ###
 
