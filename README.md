@@ -56,7 +56,7 @@ My name is Leila, and I am a detail-oriented software engineer with industry exp
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>
-  <a href="https://www.linkedin.com/in/leila-kheirandish-16a12b196/" target="_blank">
+  <a href="https://www.linkedin.com/in/leila-kheirandish/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
    <a href="mailto:Leila.kheirandish.lkh@gmail.com" target="_blank">
